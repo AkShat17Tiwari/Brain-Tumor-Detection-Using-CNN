@@ -1,11 +1,4 @@
-# Brain Tumor Detection Using CNN
 
-## 👥 Contributors
-- [Pranav Karwa](https://github.com/PranavKarwa2004)
-- [Nabhya Sharma](https://github.com/NabhyaIoT2026)
-- [Aniruddha Bolakhe](https://github.com/AniruddhaBolakhe)
-
----
 
 ## 📌 Overview
 This project focuses on **classification of brain tumor MRI images** using **Convolutional Neural Networks (CNNs)**.  
